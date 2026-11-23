@@ -44,6 +44,6 @@
   <project name="meta-nxp-connectivity" remote="imx" path="sources/meta-nxp-connectivity" revision="refs/tags/rel_imx_6.6.52_2.2.0" upstream="imx_matter_2024_q3-post"/>
   <project name="meta-nxp-demo-experience" remote="imx-support" path="sources/meta-nxp-demo-experience" revision="refs/tags/rel_imx_6.6.52_2.2.0" upstream="scarthgap-6.6.52-2.2.0"/>
   <project name="meta-engicam-nxp" path="sources/meta-engicam-nxp" remote= "engicam" revision="scarthgap"/>
-  <project name="meta-summit-radio" path="sources/meta-summit-radio" remote="ezurio" revision="lrd-13.0.40.x"/>
+  <project name="meta-summit-radio" path="sources/meta-summit-radio" remote="ezurio" revision="lrd-13.98.12.x"/>
 </manifest>
 
